@@ -1,7 +1,7 @@
 # Summer 2020 study sessions
 
 ## Schedule
-Meeting times TBD. The schedule is subject to change based on user participation.
+Meeting times *12PM Pacific Time*. The schedule is subject to change based on user participation.
 
 
 | Date     | Topic                                  | Resources                                                                                                                                                                                                 | Leader |
