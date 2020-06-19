@@ -1,7 +1,22 @@
 # Summer 2020 study sessions
 
+## Resources
+For the first part of the meetup, we will be following [David Silver's UCL course on RL](https://www.davidsilver.uk/teaching/).
+Links to the videos and slides of this course are given in the schedule.
+This course gives a good overview of reinforcement learning (RL), where Silver gives many examples of applications to games.
+Throught the videos we will see that RL is not limited to games but a wide array of problems where there is *sequential decision making under uncertainty*.
+
+Following Silver's course, we will follow [OpenAI's Spinning Up RL](https://spinningup.openai.com/en/latest/user/introduction.html) for an introduction to deep RL.
+
+The reference text we will use is [Sutton and Barto's Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html), which has a free PDF version.
+
+There are a number of courses on RL with lecture videos available from. Each of the below courses also have good resources linked in their webpages.
+- [Stanford's CS234](http://web.stanford.edu/class/cs234/index.html): Another intro to RL course. [Winter 2019 course videos](https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
+- [Berkeley's CS285](http://rail.eecs.berkeley.edu/deeprlcourse/): Introduction to Deep RL. [Fall 2018 course videos](https://www.youtube.com/playlist?list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37)
+
+
 ## Schedule
-Meeting times *12PM Pacific Time*. The schedule is subject to change based on user participation.
+Meeting times **12PM Pacific Time**. The schedule is subject to change based on user participation.
 
 
 | Date     | Topic                                  | Resources                                                                                                                                                                                                 | Leader |
@@ -20,3 +35,7 @@ Meeting times *12PM Pacific Time*. The schedule is subject to change based on us
 | 09/06/20 | Hands on – Use Spinning Up             |                                                                                                                                                                                                           |        |
 | 09/13/20 | Hands on – Use Spinning Up             |                                                                                                                                                                                                           |        |
 | 09/20/20 | Hands on – Use Spinning Up             |                                                                                                                                                                                                           |        |
+
+## Hands on learning
+
+- [Halite by Two Sigma Kaggle competition](https://www.kaggle.com/c/halite/overview): Use RL to solve a resource management game.
